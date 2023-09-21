@@ -6,5 +6,5 @@ Current ideas
 * Use authentication to login to the API automatically with the user logged in to PBID
 * Load MS default values for tenant settings
 * Load best practice values for tenant settings
-* Show difference with best MS/default practice values
+* Show difference with default MS/best practice values
 * Add links to more info on MS Learn
