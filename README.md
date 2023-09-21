@@ -1,2 +1,2 @@
 # pbi-administration
-Artifacts for proper administration of your Fabric/Power BI tenant
+A solution to administer your Fabric tenant settings and get insights into some settings like Widely Shared Artifacts.
